@@ -1,2 +1,6 @@
-# Save-Desktop-Layout-
-Save, edit and apply your favourite desktop icons layout. Useful when swapping monitors, connecting or desconnecting devices, or fast config between multiple setups.
+How to use:
+Open dist folder and open exe
+App icon will apear on system tray
+Left click to use
+
+I recommend starting it with Windows or creating a Start Menu shortcut
